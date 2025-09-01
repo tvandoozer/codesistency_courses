@@ -1,0 +1,5 @@
+# bookstore-app
+bookstore-app/mobile/node_modules/
+bookstore-app/backend/node_modules/
+
+bookstore-app/backend/.env
