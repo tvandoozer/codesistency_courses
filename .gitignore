@@ -1,11 +1,14 @@
-# bookstore-app
-bookstore-app/mobile/node_modules/
-bookstore-app/backend/node_modules/
+# # bookstore-app
+# bookstore-app/mobile/node_modules/
+# bookstore-app/backend/node_modules/
 
-bookstore-app/backend/.env
+# bookstore-app/backend/.env
 
-# recipe-app
-fullstack-recipe-app/backend/node_modules/
-fullstack-recipe-app/mobile/node_modules/
+# # recipe-app
+# fullstack-recipe-app/backend/node_modules/
+# fullstack-recipe-app/mobile/node_modules/
 
-fullstack-recipe-app/backend/.env
+# fullstack-recipe-app/backend/.env
+
+**/node_modules/
+**/.env
